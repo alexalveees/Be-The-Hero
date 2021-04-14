@@ -1,4 +1,7 @@
-# Projeto Be-The-Hero
+# Seja o Herói
+### Projeto da Rocketseat
+#### Desenvolvido em React e Express
+
 Para executar como dependências
 `yarn install`
 
